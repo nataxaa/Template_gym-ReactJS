@@ -1,0 +1,32 @@
+.slick-carousel-container {
+    width: 50%; /* Largura do carrossel */
+     /* Centralizar o carrossel */
+    
+    padding: 20px;
+    border-radius: 6px;
+    
+  }
+  
+  .slick-dots .custom-dot {
+    width: 20px; /* Defina o tamanho desejado */
+    height: 20px; /* Defina o tamanho desejado */
+    background-color: red; /* Cor de fundo dos pontos */
+    border-radius: 50%; /* Formato redondo */
+    margin: 0 5px; /* Espaçamento entre os pontos */
+    transition: background-color 0.3s ease; /* Transição suave */
+  }
+
+  /* Estilize os pontos de navegação (dots) */
+  .slick-dots li button:before {
+    color: red; /* Cor dos pontos de navegação */
+  }
+  
+  /* Estilize os slides (opcional) */
+  .slick-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 10px;
+    background-color: var(--black-secundary);
+    border-bottom: 1px solid var(--red-secundary);
+  }
