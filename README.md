@@ -33,7 +33,7 @@ Projeto de template de uma landing page para uma academia feito em ReactJS com T
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="github/video-templategym.gif" />
+    <img src="github/video_templategym.gif" />
 </h1>
 
 ## 🚀 Tecnologias
