@@ -14,11 +14,7 @@ export function About(){
            
         
       <Swiper
-      spaceBetween={50}
-      slidesPerView={2}
-      onSlideChange={() => console.log('slide change')}
-      onSwiper={() => {}}
-      navigation={true}
+      
       >
 
         <SwiperSlide>
